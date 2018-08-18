@@ -1,5 +1,9 @@
 # Slapjack
 
+[Play here!](https://shrouded-thicket-34275.herokuapp.com/ "Google's Homepage")
+
+After reading the rules, open the same link in two different tabs to see how the game plays or invite a friend/coworker to play with you!
+
 ## Rules of Slapjack 🃏
 
 In Slapjack, the objective of the game is to win the entire deck of cards (52 cards).
